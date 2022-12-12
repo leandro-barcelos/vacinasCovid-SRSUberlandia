@@ -1,0 +1,8 @@
+node {
+    size: 30px;
+    text-alignment: above;
+}
+
+edge {
+    text-alignment: along;
+}
